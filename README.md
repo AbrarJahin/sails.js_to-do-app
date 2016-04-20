@@ -113,3 +113,21 @@ debug: Port        : 1337
 debug: -------------------------------------------------------
 
 ######################################
+
+
+
+Creating a model-
+
+    sails generate model person
+
+Create a Controller
+
+    sails generate controller person
+
+Create model and controller together with API-
+
+    sails generate api person
+
+Detail-
+http://sailsjs.org/documentation/reference/blueprint-api
+
